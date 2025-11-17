@@ -60,3 +60,38 @@ L’alumne lliurarà:
 
 ## 🏁 Conclusió
 Un projecte que certifica la transformació del júnior d’EverPia en un professional preparat per afrontar reptes reals del món IT.
+
+
+# Tasques:
+- [Tasca01](Tasca01)
+
+- [Tasca02](Tasca02)
+
+- [Tasca03](Tasca03)
+
+- [Tasca04](Tasca04)
+
+- [Tasca05](Tasca05)
+
+- [Tasca06](Tasca06)
+  
+- [Tasca07](Tasca07)
+  
+- [Tasca08](Tasca08)
+
+- [Tasca09](Tasca09)
+
+- [Tasca10](Tasca10)
+
+- [Tasca10](Tasca11)
+
+- [Tasca10](Tasca12)
+
+- [Tasca10](Tasca13)
+
+- [Tasca10](Tasca14)
+
+- [Tasca10](Tasca15)
+
+
+
