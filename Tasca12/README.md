@@ -13,4 +13,12 @@ Exemple d’una web amb una landing page quilomètrica:
 
 Exemple de pantalles de checkout
 
+![exemple de checkout](img/T12comprarapida.png)
+
+## Solució
+
+A l'arxiu [solució.md](solució.md)  hi ha la solució de la tasca
+
+[Torna a la pàgina del projecte](../README.md)
+
 
