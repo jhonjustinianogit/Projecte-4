@@ -2,7 +2,7 @@
 
 ![Portada de las tasca 1](img/portadat1.png)
 
-Jhon Justiniano / SMX-B / Seguretat Informàtica / [Aquí teniu la solució en document google per si els és més comodo](https://docs.google.com/document/d/16gnri7U93clhJxhjhGq7WCiE4kr811vJx7-5Q0tpck8/edit?usp=sharing)
+Jhon Justiniano / SMX-B / Seguretat Informàtica / [Aquí teniu la solució en document google per si els és més comodo](https://docs.google.com/document/d/16gnri7U93clhJxhjhGq7WCiE4kr811vJx7-5Q0tpck8/edit?usp=sharing) / [Aquí teniu la solució en document pdf per si els és més comodo](https://drive.google.com/file/d/15Kqib50gFfcNwZY4yRdN0wPdNmrpOV1U/view?usp=sharing)
 
 ## Índex
 - Introducció
