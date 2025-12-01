@@ -257,15 +257,39 @@ ssh usuari@192.168.56.103
 
 ![foto 35](img/foto35.png)
 
+### Crea un túnel ssh (Proxy SOCKES) como el de la guía
 
+Desde la máquina Windows ejecutamos la siguiente comanda para crear el túnel
 
+``` bash
+ssh -D 9876 usuari@192.168.56.102 
+```
 
+![foto 36](img/foto36.png)
 
+![foto 37](img/foto37.png)
 
+**Configuración del túnel Proxy en windows:**
 
+Abrimos el panel de control - red y internet - opciones de internet - Conexiones - Configuración LAN
 
+![foto 38](img/foto38.png)
 
+![foto 39](img/foto39.png)
 
+![foto 40](img/foto40.png)
+
+Después habilitamos el servidor Proxy con la IP local de la máquina Ubuntu y puerto 9876
+
+![foto 41](img/foto41.png)
+
+![foto 42](img/foto42.png)
+
+Por último hacemos la validación del túnel con wireshark. Para eso nos descargamos wireshark si es que no lo tenemos descargado
+
+Abrimos wireshark y ya nos tendría que salir:
+
+![foto 43](img/foto43.png)
 
 
 
