@@ -41,7 +41,7 @@ Ara passaràs a automatitzar el procés de les còpies utilitzant uns scripts b�
 
 ## Solució
 
-A l'arxiu [solució.md](solució-windows.md)  hi ha la solució de la part de Windows
+A l'arxiu [solució-windows.md](solució-windows.md)  hi ha la solució de la part de Windows
 
 [Torna a la pàgina del projecte](../README.md)
 
