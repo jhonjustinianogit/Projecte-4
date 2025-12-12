@@ -122,30 +122,118 @@ Per a comprovar que realment la restauració estigui completa i ben feta verifiq
 
 ## Còpia de seguretat en “Google Drive”
 
+Fem el mateix que abans, li donem a Backups i a add.
+
+![foto 30](img/foto30.png)
+
+Li donem a Add new backup.
+
+![foto 31](img/foto31.png)
+
+Li posem nom i descripció que en el meu cas he posat el mateix de nom que de descripció, també posem contrasenya de la còpia, en el meu cas de contrasenya vaig posar usuari1.
+
+![foto 32](img/foto32.png)
+
+Ara si comencem a configurar la còpia, de destí li posem Google Drive i li donem a Choose.
+
+![foto 33](img/foto33.png)
+
+Després posem la ruta de documents i hem de clicar sobre AuthID, això és per a vincular el nostre compte de Google.
+
+![foto 34](img/foto34.png)
+
+Quan fem clic sobre AuthID se'ns obrirà una finestra perquè vinculem el nostre compte de google on volem fer la còpia.
+
+![foto 35](img/foto35.png)
+
+![foto 36](img/foto36.png)
+
+Una vegada que ja hem vinculat el nostre compte, de nou fem clic en AuthID per a obtenir el codi d'autorització per a poder continuar.
+
+![foto 37](img/foto37.png)
+
+Si no tenim la carpeta documents Duplicati ens la crea.
+
+![foto 38](img/foto38.png)
+
+Després seleccionem que volem copiar, posem documents.
+
+![foto 39](img/foto39.png)
+
+Ara programem l'hora i tot, ho fem d'acord amb el que ens demana la tasca, que serà que es faci la còpia de seguretat cada dia a les 18.00 de la tarda.
+
+![foto 40](img/foto40.png)
+
+Li diem que mantingui totes les còpies, osigui deixem tot com està per defecte i li donem a continuar.
+
+![foto 41](img/foto41.png)
+
+## Prova de la còpia “Google Drive”
+
+Una vegada ja està creada i configurada la còpia li donem a start perquè faci la còpia de seguretat.
+
+![foto 42](img/foto42.png)
+
+Com podem veure no em deixa fer la còpia de seguretat perquè crec que no hem vinculat bé el compte. Tranquils ara ho fem. Cliquem sobre la campaneta que ens surt a baix a la dreta i copiem el link que ens surt en el navegador de google.
+
+![foto 43](img/foto43.png)
+
+Una vegada que copiem el link en un navegador google ens sortirà el següent a la qual cosa cliquem sobre el que posa Google Drive i triem el compte.
+
+![foto 44](img/foto44.png)
+
+![foto 45](img/foto45.png)
+
+Després ens sortirà un codi el qual l'hem de copiar.
+
+![foto 46](img/foto46.png)
+
+Una vegada tinguem el codi copiat tornem al Duplicati, li donem a editar la còpia de seguretat de Google Drive, i entrem a Destinació i on posa AuthID peguem el codi que havíem copiat abans i guardem.
+
+![foto 47](img/foto47.png)
+
+Una vegada ho hem guardat li donem a start a la còpia de seguretat de Google Drive.
+
+![foto 48](img/foto48.png)
+
+Com podem veure ara si que se'ns ha fet la còpia correctament perquè es va crear la carpeta documents en Google Drive amb tots els arxius de còpia.
+
+![foto 49](img/foto49.png)
+
+Ara abans de fer la prova de restauració esborrem el document de Prova t2 de la carpeta de documents.
+
+![foto 50](img/foto50.png)
+
+## Restauració de còpia de seguretat de “Google Drive”
+
+Li donem a restore i start
+
+![foto 51](img/foto51.png)
+
+Després seleccionem la còpia de seguretat de Google Drive i li donem a restore.
+
+![foto 52](img/foto52.png)
+
+Després seleccionem el document de Prova t2 per a restaurar-lo i li donem a continuar.
+
+![foto 53](img/foto53.png)
+
+Li diem que volem que es restauri en la ubicació original.
+
+![foto 54](img/foto54.png)
+
+Li donem a submit i ja estaria.
+
+![foto 55](img/foto55.png)
+
+Com podem veure ens diu que la restauració s'ha realitzat correctament.
+
+![foto 56](img/foto56.png)
+
+Per a comprovar-ho ens anem a la carpeta documento i hauria d'estar en document de Prova t2 i efectivament sí que hi hes.
+
+![foto 57](img/foto57.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Torna a l'enunciat](README.md)
 
