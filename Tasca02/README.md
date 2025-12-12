@@ -43,6 +43,8 @@ Ara passaràs a automatitzar el procés de les còpies utilitzant uns scripts b�
 
 A l'arxiu [solució-windows.md](solució-windows.md)  hi ha la solució de la part de Windows
 
+A l'arxiu [solució-linux(ubuntu).md](solució-linux(ubuntu).md) hi ha la solució de la part de Linux (Ubuntu) 
+
 [Torna a la pàgina del projecte](../README.md)
 
 
