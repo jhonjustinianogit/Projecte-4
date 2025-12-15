@@ -93,6 +93,8 @@ Un projecte que certifica la transformació del júnior d’EverPia en un profes
 
 - [Tasca15](Tasca15)
 
+- [Tasca16](Tasca16)
+
 # Productes:
 
 - [Producte01](Producte01)
