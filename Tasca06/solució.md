@@ -63,6 +63,10 @@ Como podemos ver nos sale el nombre del equipo, el puerto, el nombre del usuario
 
 Desde la máquina de Windows abrimos la terminal y hacemos ipconfig para ver la ip y poder conectarnos desde la máquina Zorin.
 
+``` bash
+ipconfig
+```
+
 ![foto 14](img/foto14.png)
 
 Después entramos a la aplicación Remmina para conectarnos.
@@ -88,6 +92,10 @@ Después de hacer la validación y eso ya nos hemos conectado y como podemos ver
 ## Conexión desde Windows a Zorin:
 
 Lo mismo desde la máquina Zorin hacemos ip a para ver la ip de la máquina y poder conectarnos desde la máquina Windows.
+
+``` bash
+ip a
+```
 
 ![foto 20](img/foto20.png)
 
