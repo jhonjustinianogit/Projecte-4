@@ -2,10 +2,7 @@
 
 En el document d'instruccions del Projecte 4, en la taverna no hi ha gens de descripció.
 
-![Muestra de que en la tasca 15 no hay nada puesto](img/Muestra de que la tasca15 no hay nada.png)
-
-
-
+![Muestra de que en la tasca 15 no hay nada puesto](img/Muestradequelatasca15nohaynada.png)
 
 ## Solució
 
