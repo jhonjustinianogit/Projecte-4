@@ -20,7 +20,19 @@ Lo primero que tenemos que hacer es hacer la tabla y decidir qué herramientas u
 
 Mi compañero y yo hemos decidido usar TeamViewer ya que prácticamente es fácil de usar y de conectarse, el usuario pasa su ID y su contraseña y el técnico se conecta o también el técnico le pasa al cliente un link y se puede conectar.
 
-## Fase 2: Creació de les Guies d'Ús (Documentació)
+## Fase: Guía-Client: Creació de les Guies d'Ús (Documentació)
+
+### Introducción:
+
+Esta guía es para los clientes, está todo muy pautado y solo es seguir la guía, la asistencia remota es importante ya que los técnicos puedan ayudarte sin que estes fisicamente.
+
+### Versiones de TeamViewer
+
+Tiene dos versiones pero en este caso en concreto utilizaremos la versión de escritorio.
+
+
+
+
 
 
 
