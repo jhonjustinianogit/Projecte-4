@@ -54,6 +54,8 @@ Ha d'incloure (amb captures de pantalla molt clares):
 
 A l'arxiu [solució-tècnic.md](solució-tècnic.md)  hi ha la solució de la tasca del tècnic
 
+A l'arxiu [solució-client.md](solució-client.md) hi ha la solució de ls tasca del client
+
 [Torna a la pàgina del projecte](../README.md)
 
 
