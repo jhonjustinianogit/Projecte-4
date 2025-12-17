@@ -52,7 +52,7 @@ Ha d'incloure (amb captures de pantalla molt clares):
 
 ## Solució
 
-A l'arxiu [solució.md](solució.md)  hi ha la solució de la tasca
+A l'arxiu [solució-tècnic.md](solució-tècnic.md)  hi ha la solució de la tasca del tècnic
 
 [Torna a la pàgina del projecte](../README.md)
 
