@@ -471,7 +471,7 @@ En el que editamos la linea anterior para incluir la opción de “no_root_squas
 
 ``` bash
 /srv/nfs/admin_tools *(rw,sync,no_subtree_check,no_root_squash)
-/srv/nfs/dev_projects +(rw,sync,no_subtree_check)
+/srv/nfs/dev_projects *(rw,sync,no_subtree_check)
 ```
 
 ![foto56](img/f56.png)
@@ -480,7 +480,7 @@ Como podemos ver en la imágen anterior, la segunda línea, me he equivocado y h
 
 ``` bash
 /srv/nfs/admin_tools *(rw,sync,no_subtree_check,no_root_squash)
-/srv/nfs/dev_projects +(rw,sync,no_subtree_check)
+/srv/nfs/dev_projects *(rw,sync,no_subtree_check)
 ```
 
 Una vez hecho eso, lo que tenemos que hacer es reiniciar el servicio para que se apliquen los cambios. 
