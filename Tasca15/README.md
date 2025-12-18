@@ -1,6 +1,6 @@
 # T15: Com de circular és la meva família professional?
 
-En el document d'instruccions del Projecte 4, en la taverna no hi ha gens de descripció.
+En el document d'instruccions del Projecte 4, en la tasca no hi ha gens de descripció.
 
 ![Muestra de que en la tasca 15 no hay nada puesto](img/Muestradequelatasca15nohaynada.png)
 
